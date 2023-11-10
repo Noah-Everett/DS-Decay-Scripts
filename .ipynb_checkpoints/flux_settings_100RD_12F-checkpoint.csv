@@ -1,0 +1,2 @@
+detector.x,detector.y,detector.z,m_B_nBins,deltaE_nBins,deltaE_min,deltaE_max,nRedecay,POT,scale_position,scale_momentum,m_B_min,m_B_max
+1.5,1.5,100,100,100,0,1000,100,240000000,0.01,1000,1.022,69.8
